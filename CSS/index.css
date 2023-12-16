@@ -1,0 +1,49 @@
+.img1{
+    height: 60px;
+}
+#input1 {
+    height: 45px; 
+   border-radius: 20px;
+ margin-top: 10px;
+ background-color: rgb(247, 247, 247);
+ width: 800px;
+  }
+a{
+    text-decoration: none;
+    color: rgb(43, 26, 196);
+    
+}
+.btn{
+    height: 45px;
+    margin-top: 10px;
+    border: 2px 2px solid rgb(177, 177, 177);
+    border-radius: 20px;
+    width: 150px;
+    margin-left: 10px;
+}
+.zaid3{
+    margin-top: 25px;
+    margin-right: 2px;
+}
+p{
+    margin-top: 5px;
+   
+}
+.zaid{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.zaid1{
+    margin-top: 15px;
+}
+nav{
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+.card{
+    height: 550px;
+}
+.border{
+    border: 2px 2px solid black;
+}
+
